@@ -1,0 +1,26 @@
+[{
+  "_class": "com.udacity.pricing.domain.price.Price",
+  "currency": "USD",
+  "price": "15000.00"
+},
+{
+"_class": "com.udacity.pricing.domain.price.Price",
+"currency": "USD",
+"price": "20000.00"
+},
+  {
+    "_class": "com.udacity.pricing.domain.price.Price",
+    "currency": "USD",
+    "price": "25000.00"
+  },
+  {
+    "_class": "com.udacity.pricing.domain.price.Price",
+    "currency": "USD",
+    "price": "50000.00"
+  },
+  {
+    "_class": "com.udacity.pricing.domain.price.Price",
+    "currency": "USD",
+    "price": "30000.00"
+  }
+]
